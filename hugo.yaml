@@ -1,0 +1,25 @@
+baseURL: "https://samproject.com.pt"
+defaultContentLanguage: "en"
+languageCode: "en"
+title: "SamProject"
+theme: "gokarna"
+
+enableRobotsTXT: true
+
+
+params:
+  author: "Carlos Pinto Machado"
+  avatarURL: "/images/logo.png"
+  description: "SamProject the team you'll want to build your brand with"
+  socialIcons:
+    - name: "vimeo"
+      url: "https://vimeo.com/samproject"
+    - name: "instagram"
+      url: "https://www.instagram.com/samprojectoficial"
+    - name: "facebook"
+      url: "https://www.facebook.com/SamProject/"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/samproject/"
+    - name: "email"
+      url: "mailto:moraissamuel@gmail.com"
+
